@@ -16,6 +16,7 @@ gem "mysql", "~> 2.8.1"
 
 gem "execjs"
 gem "therubyracer"
+gem "capistrano"
 
 # Postgres
 # gem "pg", "~> 0.11.0"
